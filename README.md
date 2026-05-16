@@ -1,4 +1,5 @@
 EN | [ZH](README.zh.md) | [RU](README.ru.md) | [ES](README.es.md)
+
 # TechMC Glossary
 
 A multilingual glossary of Minecraft technical terms in multiple languages, designed to help players and developers maintain consistent terminology.
@@ -11,6 +12,7 @@ A multilingual glossary of Minecraft technical terms in multiple languages, desi
 - Spanish
 
 View glossary file：
+
 - [🔍 TechMC Glossary.csv (preview)](https://github.com/DuskScorpio/TechMC-Glossary/blob/main/TechMC%20Glossary.csv)
 
 ## 📄 File
@@ -21,8 +23,21 @@ View glossary file：
   - Term (English)
   - Translations
   - Description
+  - Related (See-also and Synonyms)
 
 >⚠️ When there is controversial or pending content, it will be marked with an "*" at the end.
+
+### 🔗 Related column conventions
+
+The `Related` column links terms using typed prefixes:
+
+| Prefix | Meaning | Example |
+|---|---|---|
+| `synonym:` | Same concept, interchangeable name | `synonym:Instant Tile Tick` |
+| `see:` | Different but related concept | `see:Comparator Update Detector` |
+
+Multiple entries are separated by `; `.  
+Example: `synonym:Bounding Box; synonym:Hitbox; see:Collision Box`
 
 ## ✅ How to Contribute
 
@@ -44,6 +59,7 @@ To edit the glossary in Excel:
 > ⚠️ Please make sure to save in **UTF-8 encoding** to avoid character issues.
 
 ## 📚 Credits
+
 The initial version of this glossary was compiled from the following sources:
 - [GraduateTextsInTechnicalMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
 - [LAS TMC Translation](https://www.youtube.com/@redstonevideotranslation5478)
