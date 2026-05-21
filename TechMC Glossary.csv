@@ -301,6 +301,7 @@ other,,,Lazy Acceleration,,Refers to a method of entity acceleration where entit
 other,,,Propellant,,Mostly used in cannons,,,推进剂,,,,,,,,,,,,,,,,Comburente,
 other,,,,,Can also be referred to as the phenomenon of collision checking along axes in entity movement based on Entity.move().,,,沿轴运动/沿轴移动,,,,,,,,,,,,,,,,,
 other; storage,HSS,,High Signal Strength (aka Overstacked Signal Strength),,Storage tech term.,,,强模,可由比较器读出与传递的，信号强度超过15的非法信号。,,,,,,,,,,,,,,,Sobrecarga de Signal Strength,
+people,,,ilmango,,,,,芒果/李芒果,,,,,,,,,,,,,,,,ilmango,
 science,Bin,,Binary,,"An encoding where each digit of a code is either on or off (we say it has a binary state, usually represented with 0s and 1s). ",,,二进制,一种编码方式，其中代码的每个位要么是开要么是关（通常表示为0或1）。,,,,,,,,,,,,,,,Binario,
 science,,,Bit,,Short for binary digit: the digits in a binary system.,,,位,二进制系统中的单个数字，简称二进制位。,,,,,,,,,,,,,,,Bit,
 science,,,Cellular Automata,,,,,元胞自动机,元胞自动机。指基于简单规则模拟复杂行为的系统。*,,,,,,,,,,,,,,,Autómata Celular,
